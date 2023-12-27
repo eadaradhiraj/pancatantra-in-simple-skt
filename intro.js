@@ -33,7 +33,7 @@ var intro = {
       "Sanskrit": "यः द्रुमः लोकस्य इच्छाः पूरयितुम् शक्नोति।"
     },
     {
-      "English": "He had three friends.",
+      "English": "He had three sons.",
       "Sanskrit": "तस्य त्रयः पुत्राः।"
     },
     {
@@ -337,11 +337,8 @@ var intro = {
       "Sanskrit": "कथ्यते यत्"
     },
     {
-      "English": "He who studies or listens to this treatise on administration and politics daily will never ever get defeated by even Indra."
-    },
-    {
       "English": "Whoever reads this Nitishastra regularly ",
-      "Sanskrit": "यः कोऽपि इदं नित्यं नीति-शास्त्रं पठति।"
+      "Sanskrit": "यः कोऽपि इदं नीति-शास्त्रं नित्यं पठति।"
     },
     {
       "English": "He won't be defeated even by Indra.",
