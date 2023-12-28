@@ -152,6 +152,78 @@ var story1 = {
       "Sanskrit": "एवं धनस्य प्रभावः।",
       "English": "And so this is the influence of money."
     },
+    {
+      "Sanskrit": "यथा भोजन-समये इन्द्रियाणि साधनानि भवन्ति,",
+      "English": "Just as while earing all the senses help,"
+    },
+    {
+      "Sanskrit": "तथा एव आर्थिक-कार्येषु धनं साधनं भवति।",
+      "English": "Money helps in economiy activity."
+    },
+    {
+      "Sanskrit": "धनम् अर्जितुं श्मशाने अपि निवासं करोति निर्धनः।",
+      "English" : "To earn money, a poor man lives even in a cemetery."
+    },
+    {
+      "Sanskrit": "धनम् अर्जितुं मातारम् अपि त्जयति निर्धनः।",
+      "English" : "To earn money a poor man would abandon his own mother."
+    },
+    {
+      "Sanskrit": "दूरं गच्छति।",
+      "English": "He goes far."
+    },
+    {
+      "Sanskrit": "धनिकाः वृद्धाः अपि तरुणाः इव अनुभवन्ति।",
+      "English": "The rich even if old feel young."
+    },
+    {
+      "Sanskrit": "निर्धनाः तरुणाः अपि वृद्धाः इव अनुभवन्ति।",
+      "English": "The poor even if young feel old."
+    },
+    {
+      "Sanskrit": "षड्भिः उपायैः भवति धनार्जनम्।",
+      "English": "Money is earned by 6 means."
+    },
+    {
+      "Sanskrit": "ते सन्ति - भिक्षा, राजसेवा, कृषिः, विद्यायाः अर्जनं, ऋणदानम्, व्यापारः च।",
+      "English": "They are - begging, Royal service, farming, acquiring knowledge, giving loans and business."
+    },
+    {
+      "Sanskrit": "तेषु सेरवेषु उत्तमः व्यापारः एव,",
+      "English": "In those business is the best."
+    },
+    {
+      "Sanskrit": "यद्धि विना तिरस्कारेण लाभकरः च।",
+      "English": "because it is profitable without criticism."
+    },
+    {
+      "Sanskrit": "नैके भिक्षाम् अयाचयन्।",
+      "English": "Many have begged."
+    },
+    {
+      "Sanskrit": "राजा योग्यां वृत्तिं न प्रददाति।",
+      "English": "The king does not offer good jobs"
+    },
+    {
+      "Sanskrit": "कृषिः कष्टं ददाति।",
+      "English": "Farming is difficult."
+    },
+    {
+      "Sanskrit": "राजा योग्यां वृत्तिं न प्रददाति।",
+      "English": "The king does not offer good jobs"
+    },
+    {
+      "Sanskrit": "गुरुसेवया विद्यायाः स्वीकारः अपि कष्टः।",
+      "English": "Receiving education by serving the guru is also difficult."
+    },
+    {
+      "Sanskrit": "ऋणदानेन समृद्धिः न लभ्यते,",
+      "English": "Money-lending will not lead to riches,"
+    },
+    {
+      "Sanskrit": "यद्धि अन्येभ्यः ऋणं दीयते चेत् न पुनारागच्छेत्।",
+      "English": "because giving money to others, it may not come back."
+    }
     
   ]
 }
