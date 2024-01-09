@@ -223,7 +223,62 @@ var story1 = {
     {
       "Sanskrit": "यद्धि अन्येभ्यः ऋणं दीयते चेत् न पुनारागच्छेत्।",
       "English": "because giving money to others, it may not come back."
-    }
-    
+    },
+    {
+      "Sanskrit": "सर्वेषाम् उपायानाम् उत्तमः तु भाण्डानां सङ्ग्रहः।",
+      "English": "The best of all these ideas is collection of goods."
+    },
+    {
+      "Sanskrit": "अन्ये संशयात्मकाः।",
+      "English": "The others are doubtful."
+    },
+    {
+      "Sanskrit": "सप्त-प्रकाराः सन्ति येषां सङ्ग्रहः समीचिनः अस्ति।",
+      "English": "There are seven kinds of good that can be collected."
+    },
+    {
+      "Sanskrit": "गान्धिकाः।",
+      "English": "Perfumes"
+    },
+    {
+      "Sanskrit": "निक्षेपाः।",
+      "English": "Pawning of objects."
+    },
+    {
+      "Sanskrit": "गोष्ठिक-कर्माणि।",
+      "English": "Business activities"
+    },
+    {
+      "Sanskrit": "परिचितानाम् आगमनम्।",
+      "English": "The visits of acquaintances."
+    },
+    {
+      "Sanskrit": "मिथ्या-क्रय-कथनम्।",
+      "English": "False purchase statements."
+    },
+    {
+      "Sanskrit": "कूट-तुला-मानम्।",
+      "English": "Counterfiet weights and measurements."
+    },
+    {
+      "Sanskrit": "देशान्तरात् भाण्डानि।",
+      "English": "Foreign imports"
+    },
+    {
+      "Sanskrit": "गन्धिकः उत्तमः शतेन अपि प्रदीयते।",
+      "English": "The best are perfumes, can be sold for a hundred."
+    },
+    {
+      "Sanskrit": "यदा निक्षेपः आगच्छति तदा निक्षेप-व्यापारी निक्षेपिनः मरणं याचति।",
+      "English": "When a despositor pawns an object, the pawnbroker prays for the death of despositor."
+    },
+    {
+      "Sanskrit": "गोष्ठिक-कर्म-नियुक्तः चिन्तयति यत् विश्वस्य धनं सर्वं लब्धम्।",
+      "English": "One appointed to lead business activities thinks he has gained all the world's wealth."
+    },
+    {
+      "Sanskrit": "व्यापारी परिचिताय ग्राहकाय कौतुकेन अपेक्षते।",
+      "English": "A trader eagerly waits for a known customer."
+    } //१.१६
   ]
 }
