@@ -1,11 +1,11 @@
-var sents = document.getElementsByTagName("p");
-for (var i=0; i < sents.length; i++) {
-  sents[i].onclick = function(){
-    for (var k=0; k < sents.length; k++) { sents[k].style.color = "black"; }
-    let pid = this.getAttribute("pid");
-    let items2color = document.querySelectorAll(`[pid="${pid}"]`);
-    for (var j=0; j < items2color.length; j++) {
-      items2color[j].style.color = "red";
-    }
-  }
-};
+var tableRows = document.querySelectorAll("tr");
+
+// Add a click event listener to each table row
+tableRows.forEach(function(sel_row) {
+  sel_row.addEventListener("click", function() {
+    tableRows.forEach(function(un_sel_row) {
+      un_sel_row.style.color = "black";
+    });
+    this.style.color = "red";
+  });
+});
